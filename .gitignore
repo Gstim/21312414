@@ -1,0 +1,6 @@
+echo "# 21312414" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Gstim/21312414.git
+git push -u origin master
